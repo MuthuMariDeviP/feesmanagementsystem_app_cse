@@ -1,6 +1,8 @@
-streamlit==1.39.0
+streamlit
 pandas
+openpyxl
 segno
 Pillow
 xhtml2pdf
 reportlab
+sqlite3-binary
